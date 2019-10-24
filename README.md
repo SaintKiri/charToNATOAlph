@@ -10,7 +10,7 @@ Before you try run this through any kind of command line, make sure you have Jav
 ```
 java charTONATOAlph.java
 ```
-and start typing your letters.
+and start typing your letters.  
 3. Finish typing by pressing enter
 
 # Features:
