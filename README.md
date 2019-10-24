@@ -10,8 +10,8 @@ Before you try run this through any kind of command line, make sure you have Jav
 ```
 java charTONATOAlph.java
 ```
-and start typing your letters.  
-3. Finish typing by pressing enter
+3. Start typing your letters.
+4. Finish typing by pressing enter
 
 # Features:
 - Spaces will be translated as a new line
